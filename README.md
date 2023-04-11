@@ -1,4 +1,4 @@
-### Hi stranger... 👋
+### Hi there... 👋
 Oncelikle herkese selam iyi calismalar...Yazilim konusuna cok meraklıyım ozellikle oyun gelistirilicigine.C#,C++,Java dillerini ogrenmis olup az cok demeden kendimi gelistirmekteyim.
 <br>
 <p align="left"> <a href="mailto:cetinmehmetcan548@gmail.com"> <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" width="40" align="center" alt="Gmail"/></a>  
